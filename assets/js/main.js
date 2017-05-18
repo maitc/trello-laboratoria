@@ -82,8 +82,6 @@ function principal(){
 										impresionTarjeta = cv.textoTarjeta + "<br>" + cv.tarjeta;
 									})*/
 							});
-
-
 					}
 					btnTarjeta();
 				});
